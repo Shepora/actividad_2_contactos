@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_fecha">Fecha de nacimiento</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion">Descripción del contacto</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="confirmar_datos">Confirmar datos</string>
+    <string name="btn_editar">Editar datos</string>
+    <string name="error_requerido">Campo obligatorio</string>
+    <string name="error_email">Email no válido</string>
+</resources>
